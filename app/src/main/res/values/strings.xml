@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BPcounter</string>
+    <string name="_1_10bp">1位(10BP)</string>
+    <string name="_2_8bp">2位(8BP)</string>
+    <string name="_3_6bp">3位(6BP)</string>
+    <string name="_4_4bp">4位(4BP)</string>
+    <string name="plus">+</string>
+    <string name="setbp">SetBP</string>
+</resources>
